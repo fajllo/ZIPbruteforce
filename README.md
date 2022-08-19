@@ -14,3 +14,8 @@ A simple Python zip file brute force tool.
 2.python3 zipbruteforcer.py -z <zipfile.zip> -p <passwordfile.txt>
 ```
     
+## Other Common Github Profile Sections
+
+
+⚡️ [Github Passwords Lists](https://github.com/danielmiessler/SecLists/tree/master/Passwords)
+
